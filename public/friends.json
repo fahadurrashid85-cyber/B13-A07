@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.johnson@example.com",
+    "days_since_contact": 12,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met during university. Enjoy hiking and weekend road trips together.",
+    "goal": 14,
+    "next_due_date": "2026-07-04"
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "michael.chen@example.com",
+    "days_since_contact": 3,
+    "status": "on_track",
+    "tags": ["work", "mentor"],
+    "bio": "Former teammate who provides career advice and tech insights.",
+    "goal": 14,
+    "next_due_date": "2026-07-13"
+  },
+  {
+    "id": 3,
+    "name": "Emma Rodriguez",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "emma.rodriguez@example.com",
+    "days_since_contact": 21,
+    "status": "overdue",
+    "tags": ["gym", "fitness buddy"],
+    "bio": "Met at the gym. We motivate each other to stay consistent.",
+    "goal": 14,
+    "next_due_date": "2026-06-25"
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "david.wilson@example.com",
+    "days_since_contact": 7,
+    "status": "on_track",
+    "tags": ["neighbor", "family friend"],
+    "bio": "Lives nearby. Often meet for coffee and community events.",
+    "goal": 14,
+    "next_due_date": "2026-07-09"
+  },
+  {
+    "id": 5,
+    "name": "Priya Patel",
+    "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+    "email": "priya.patel@example.com",
+    "days_since_contact": 1,
+    "status": "recent",
+    "tags": ["travel", "close friend"],
+    "bio": "Travel companion who loves exploring new countries and cultures.",
+    "goal": 14,
+    "next_due_date": "2026-07-15"
+  },
+  {
+    "id": 6,
+    "name": "James Anderson",
+    "picture": "https://randomuser.me/api/portraits/men/41.jpg",
+    "email": "james.anderson@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["gaming", "childhood friend"],
+    "bio": "Known each other since school. Regularly play online games together.",
+    "goal": 14,
+    "next_due_date": "2026-06-28"
+  }
+]
