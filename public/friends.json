@@ -19,7 +19,7 @@
     "days_since_contact": 3,
     "status": "on_track",
     "tags": ["work", "mentor"],
-    "bio": "Former teammate who provides career advice and tech insights.",
+    "bio": "Former teammate who gives career advice and shares coding ideas.",
     "goal": 14,
     "next_due_date": "2026-07-13"
   },
@@ -30,8 +30,8 @@
     "email": "emma.rodriguez@example.com",
     "days_since_contact": 21,
     "status": "overdue",
-    "tags": ["gym", "fitness buddy"],
-    "bio": "Met at the gym. We motivate each other to stay consistent.",
+    "tags": ["fitness", "gym buddy"],
+    "bio": "We met at the gym and motivate each other to stay healthy.",
     "goal": 14,
     "next_due_date": "2026-06-25"
   },
@@ -42,8 +42,8 @@
     "email": "david.wilson@example.com",
     "days_since_contact": 7,
     "status": "on_track",
-    "tags": ["neighbor", "family friend"],
-    "bio": "Lives nearby. Often meet for coffee and community events.",
+    "tags": ["neighbor", "coffee"],
+    "bio": "A friendly neighbor who enjoys weekend coffee conversations.",
     "goal": 14,
     "next_due_date": "2026-07-09"
   },
@@ -54,8 +54,8 @@
     "email": "priya.patel@example.com",
     "days_since_contact": 1,
     "status": "recent",
-    "tags": ["travel", "close friend"],
-    "bio": "Travel companion who loves exploring new countries and cultures.",
+    "tags": ["travel", "adventure"],
+    "bio": "Travel partner who loves discovering new places and cultures.",
     "goal": 14,
     "next_due_date": "2026-07-15"
   },
@@ -67,8 +67,56 @@
     "days_since_contact": 18,
     "status": "overdue",
     "tags": ["gaming", "childhood friend"],
-    "bio": "Known each other since school. Regularly play online games together.",
+    "bio": "Known since school days and still play games together.",
     "goal": 14,
     "next_due_date": "2026-06-28"
+  },
+  {
+    "id": 7,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/55.jpg",
+    "email": "olivia.martinez@example.com",
+    "days_since_contact": 5,
+    "status": "on_track",
+    "tags": ["music", "creative"],
+    "bio": "Friend from a music club who enjoys concerts and art events.",
+    "goal": 10,
+    "next_due_date": "2026-07-10"
+  },
+  {
+    "id": 8,
+    "name": "Daniel Brown",
+    "picture": "https://randomuser.me/api/portraits/men/18.jpg",
+    "email": "daniel.brown@example.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["school", "old friend"],
+    "bio": "An old school friend we reconnect with every few months.",
+    "goal": 30,
+    "next_due_date": "2026-06-22"
+  },
+  {
+    "id": 9,
+    "name": "Sophia Lee",
+    "picture": "https://randomuser.me/api/portraits/women/90.jpg",
+    "email": "sophia.lee@example.com",
+    "days_since_contact": 2,
+    "status": "recent",
+    "tags": ["developer", "tech"],
+    "bio": "Developer friend who likes discussing new technologies.",
+    "goal": 14,
+    "next_due_date": "2026-07-14"
+  },
+  {
+    "id": 10,
+    "name": "Robert Taylor",
+    "picture": "https://randomuser.me/api/portraits/men/61.jpg",
+    "email": "robert.taylor@example.com",
+    "days_since_contact": 16,
+    "status": "overdue",
+    "tags": ["sports", "football"],
+    "bio": "Sports buddy who watches football matches together.",
+    "goal": 14,
+    "next_due_date": "2026-06-30"
   }
 ]
